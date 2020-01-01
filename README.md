@@ -2,7 +2,7 @@
 This project is part of the Udacity Data Analyst Nanodegree program.
 
 ### Project Status
-Active
+Completed
 
 ## Project Intro
 The purpose of this project is to acquire skills in computational statistics
